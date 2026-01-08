@@ -600,7 +600,9 @@ section {
     color: var(--accent-blue);
     transform: translateY(-3px);
 }
-
+.resume{
+    padding-top: 19px;
+}
 /* Animations */
 @keyframes fadeIn {
     from {
